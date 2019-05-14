@@ -1,0 +1,38 @@
+Hematopoietic Cell Therapy Laboratory - Hershey Medical Center
+
+Sample No.: 2018-1107 UK 11/07/2018 09:48:48
+Patient ID: Ward: Dr.:
+Name: Birth: Sex:
+Comments: |nst.lD:XS-1000i"11699
+Negative
+
+WBC
+WBC 7.54 [10“3/uL]
+HCT 41.0 [%]
+PLT 289 [1 0‘3/u L]
+
+ 
+
+NEUT 4.29 [10"3/uL] 56.8 [%]
+LYMPH 2.48 [10"3/uL] 32.9 [°/o]
+MONO 0.64 [10“3/uL] 8.5 [<70]
+so 0.11 [10‘3/uL] 1.5 [<70]
+BASO 0.02 [10‘3/uL] 0.3 [%1
+
+ 
+
+Sample Type: Apheresis Marrow Blood Other:
+
+Dilution
+
+Pre
+
+ 
+
+Post
+
+ 
+
+Tech ID
+
+WBC IP Message(s) RBC IP Message(s) PLT IP Message(s)
